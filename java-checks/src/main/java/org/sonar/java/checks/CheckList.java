@@ -718,7 +718,7 @@ public final class CheckList {
       AssertionsWithoutMessageCheck.class,
       BadTestClassNameCheck.class,
       BadTestMethodNameCheck.class,
-      BooleanLiteralInAssertionsCheck.class,
+      BooleanOrNullLiteralInAssertionsCheck.class,
       CallSuperInTestCaseCheck.class,
       IgnoredTestsCheck.class,
       JunitMethodDeclarationCheck.class,
