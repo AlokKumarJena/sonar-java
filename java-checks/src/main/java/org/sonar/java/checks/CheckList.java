@@ -723,6 +723,7 @@ public final class CheckList {
       IgnoredTestsCheck.class,
       JunitMethodDeclarationCheck.class,
       NoTestInTestClassCheck.class,
+      TestClassAndMethodVisibilityCheck.class,
       ThreadSleepInTestsCheck.class,
       UnusedTestRuleCheck.class);
   }
